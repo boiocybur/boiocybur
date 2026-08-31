@@ -1,6 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jesper 👋
 
-<h3>- 🌱 I’m currently learning ... </h3>
+I'm a **Multimedia Design student at EK**, currently specializing in **Frontend Development**.
+
+Before studying Multimedia Design, I completed four semesters of the **Computer Science (Datamatiker) programme at KEA**, where I worked with programming and software technologies. My electives included **Python, Machine Learning and Algorithms**.
+
+I enjoy combining my programming background with frontend development to build functional and user-friendly web applications.
+
+🔎 **Currently looking for a frontend development internship.**
+
+🌐 **Portfolio:** [jdjessen.com](https://jdjessen.com/)
+
+## 👨‍💻 About me
+
+- 🎓 Multimedia Design student at EK
+- 🌐 Currently specializing in Frontend Development
+- ☕ Experience with Java and object-oriented programming
+- 🐍 Experience with Python, Machine Learning and Algorithms
+- 💻 Working with HTML, CSS, JavaScript and web development
+- 🔧 Experience with Git, GitHub and development workflows
+
+## 🛠️ Technologies & tools
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -17,24 +37,16 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<h3>My GitHub contributions summary</h3>
+## 📊 GitHub activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boiocybur&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=boiocybur&layout=donut&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=boiocybur&layout=donut&langs_count=4&theme=radical)
-<!--
-**boiocybur/boiocybur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to internship opportunities within frontend and web development.
+
+🌐 [jdjessen.com](https://jdjessen.com/)
 
 ![](https://komarev.com/ghpvc/?username=boiocybur&color=brightgreen)
